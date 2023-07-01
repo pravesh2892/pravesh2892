@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravesh2892&label=Profile%20views&color=0e75b6&style=flat" alt="pravesh2892" /> </p>
 
-- 🌱 I’m currently learning **DSA, HTML, CSS, Javascript,React, NodeJS**
+- 🌱 I’m currently learning **DSA, HTML, CSS, JavaScript,React js, NodeJS, Mongo DB**
 
 - 📫 How to reach me **pravesh.meena2892@gmail.com**
 
